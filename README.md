@@ -1,4 +1,5 @@
-Face Reecongnition Attendance System help us to identify and mark attendance for person 
+Face Reecongnition Attendance System help us to identify and mark attendance for person
+file details:
 1.The dataset used here is 3 person face images
 2.The Attendance is noted in form of csv file with name and time
 Working:
